@@ -91,6 +91,18 @@
             "hideInput": true,
             "map": "maps/painmap_female_no_alt.html"
         },
+	"PAINMAP_MALE_DK_ALT": {
+            "name": "painmap_male_dk",
+            "alt": "Male Front Pain Map",
+            "desc": "The Stanford Choir Pain Map for Males",
+            "options": "f01,f02,f03,f04,f05,f06,f07,f08,f09,f10,f11,f12,f13,f14,f15,f16,f17,f18,f19,f20,f21,f22,f23,f24,f25,f26,f27,f28,f29,f30,f31,f32,f33,f34,f35,f36,b01,b02,b03,b04,b05,b06,b07,b08,b09,b10,b11,b12,b13,b14,b15,b16,b17,b18,b19,b20,b21,b22,b23,b24,b25,b26,b27,b28,b29,b30,b31,b32,b33,b34,b35,b36,b37,b38",
+            "data_dict_default": "f01, Kranium (front-højre) | f02, Kranium (front-venstre) | f03, Ansigt (front-højre) | f04, Ansigt (front-venstre) | f05, Hals (front-højre) | f06, Hals (front-venstre) | f07, Skulder (front-højre) | f08, Bryst (front-højre) | f09, Bryst (front-venstre) | f10, Skulder (front-venstre) | f11, Overarm (front-højre) | f12, Overarm (front-venstre) | f13, Albue (front-højre) | f14, Albue (front-venstre) | f15, Underarm (front-højre) | f16, Mave (front-højre) | f17, Mave (front-venstre) | f18, Underarm (front-venstre) | f19, Håndled (front-højre) | f20, Hofte (front-højre) | f21, Skamben (front-højre) | f22, Skamben (front-venstre) | f23, Hofte (front-venstre) | f24, Håndled (front-venstre) | f25, Hånd (flade-højre) | f26, Lår (front-højre) | f27, Lår (front-venstre) | f28, Hånd (flade-venstre) | f29, Knæ (front-højre) | f30, Knæ (front-venstre) | f31, Skinneben (front-højre) | f32, Skinneben (front-venstre) | f33, Ankel (front-højre) | f34, Ankel (front-venstre) | f35, Fod (top-højre) | f36, Fod (top-venstre) | b01, Kranium (bag-venstre) | b02, Kranium (back-højre) | b03, Hoved (bag-venstre) | b04, Hoved (bag-højre) | b05, Nakke (bag-venstre) | b06, Nakke (bag-højre) | b07, Skulder (bag-venstre) | b08, Øvre ryg (bag-venstre) | b09, Øvre ryg (bag-højre) | b10, Skulder (bag-højre) | b11, Overarm (bag-venstre) | b12, Ryg (bag-venstre) | b13, Ryg (bag-højre) | b14, Overarm (bag-højre) | b15, Albue (bag-venstre) | b16, Albue (bag-højre) | b17, Underarm (bag-venstre) | b18, Lænd (bag-venstre) | b19, Lænd (bag-højre) | b20, Underarm (bag-højre) | b21, Håndled (bag-venstre) | b22, Hofte (bag-venstre) | b23, Baller (bag-venstre) | b24, Balle (bag-højre) | b25, Hofte (bag-højre) | b26, Håndled (bag-højre) | b27, Hånd (top-venstre) | b28, Lår (bag-venstre) | b29, Lår (bag-højre) | b30, Hånd (top-højre) | b31, Knæhase (bag-venstre) | b32, Knæhase (bag-højre) | b33, Læg (bag-venstre) | b34, Læg (bag-højre) | b35, Ankel (bag-venstre) | b36, Ankel (bag-højre) | b37, Hæl (under-venstre) | b38, Hæl (under-højre)",
+            "image": "img/painmap_male.png",
+            "width": 553,
+            "height": 580,
+            "hideInput": true,
+            "map": "maps/painmap_male_dk_alt.html"
+        },
         "SMILE_SCALE": {
             "name": "smile_scale",
             "alt": "Smile Scale",
