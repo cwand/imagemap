@@ -1,20 +1,15 @@
 {
-    "name": "Image Map",
-    "namespace": "ImageMap\\ExternalModule",
-    "description": "This module replaces an input, radio, or checkbox field with an interactive image where users can click on image regions to select one or more field options. Find the complete <b><a href='https://github.com/ctsit/imagemap' target='_blank'>documentation</a></b> and an example instrument at <a href='https://github.com/ctsit/imagemap/blob/master/docs/Instrument%20Example.zip' target='_blank'>https://github.com/ctsit/imagemap</a>.",
+    "name": "Image Map (DK alt)",
+    "namespace": "ImageMapDK\\ExternalModule",
+    "description": "This module replaces an input, radio, or checkbox field with an interactive image where users can click on image regions to select one or more field options. Find the complete <b><a href='https://github.com/cwand/imagemap' target='_blank'>documentation</a></b> and an example instrument at <a href='https://github.com/cwand/imagemap/blob/master/docs/Instrument%20Example.zip' target='_blank'>https://github.com/cwand/imagemap</a>.",
     "permissions": [
         "redcap_every_page_top"
     ],
     "authors": [
         {
-            "name": "Andy Martin",
-            "email": "andy123@stanford.edu",
-            "institution": "Stanford University"
-        },
-        {
-            "name": "Philip B. Chase",
-            "email": "pbc@ufl.edu",
-            "institution": "University of Florida - CTSI"
+            "name": "Chris W. Andersen",
+            "email": "christian.walther.andersen@rsyd.dk",
+            "institution": "Odense Universitetshospital (OUH)"
         }
     ],
     "compatibility": {
