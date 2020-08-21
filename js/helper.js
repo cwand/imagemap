@@ -22,13 +22,13 @@ $(document).ready(function() {
             return false;
         }
 
-        var tag_name = '@IMAGEMAP';
+        var tag_name = '@IMAGEMAPDK';
 
         // Create the help text
         var descr = $('<div></div>')
             .addClass('imagemap-container')
             .html('Converts a radio, checkbox, or text field into a clickable image. For example, to display a male body '
-                + 'with clickable body parts, you may use <nobr>@IMAGEMAP=PAINMAP_MALE</nobr>.  For a full list of available '
+                + 'with clickable body parts, you may use <nobr>@IMAGEMAPDK=PAINMAP_MALE_DK_ALT</nobr>.  For a full list of available '
                 + 'image maps and details about options, please reference the:<br>');
         var btn = $('<a></a>')
             .attr('href', imageMapEM.helpUrl)
