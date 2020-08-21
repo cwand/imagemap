@@ -4,7 +4,7 @@
  * Provides ExternalModule class for Image Map.
  */
 
-namespace ImageMap\ExternalModule;
+namespace ImageMapDK\ExternalModule;
 
 use ExternalModules\AbstractExternalModule;
 use ExternalModules\ExternalModules;
@@ -16,7 +16,7 @@ Use Stanford\Utility\ActionTagHelper;
  */
 class ExternalModule extends AbstractExternalModule {
 
-    public $tag = "@IMAGEMAP";
+    public $tag = "@IMAGEMAPDK";
 
     /**
      * @inheritdoc
